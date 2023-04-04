@@ -9,7 +9,7 @@ Tópicos:
 <b>VARIÁVEIS:</b>
 
 - let: Variável que pode ter seu valor reatribuído.
-- const: 	Variável cujo valor não pode ser alterado.
+- const: 	Variável cujo valor não pode ser reatribuído.
 
 Ex: let idade = 30;
 const PI = 3,1415
