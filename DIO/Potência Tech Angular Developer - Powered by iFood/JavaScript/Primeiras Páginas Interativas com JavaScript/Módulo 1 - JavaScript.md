@@ -21,6 +21,6 @@ Outra diferença é que "let" tem escopo de bloco, enquanto "const" tem escopo d
 ##
 <b>OPERADORES:</b>
 
-Operadores Aritméticos
+Operadores Aritméticos:<br>
 Os operadores aritméticos são usados para executar operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 
